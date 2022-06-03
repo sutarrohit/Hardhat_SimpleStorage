@@ -48,8 +48,8 @@ To test have much gas cost function install
 npm install hardhat-gas-reporter --save-dev
 yarn add hardhat-gas-reporter --dev
 
-Solidity Coverage : It help to test contract and find bugs.
-yarn add --dev solidity covrage
+Solidity Coverage : It help to test contract and find bugs. (IMP)
+yarn add --dev solidity coverage
 
 
 
