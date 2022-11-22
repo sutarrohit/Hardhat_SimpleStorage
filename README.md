@@ -1,6 +1,6 @@
 # Basic Sample Hardhat Project
 
-This project shows the basic Hardhat usage case.
+This project shows the basic Hardhat use case.
 The simple Storage contract has deployed and write tests for the contract.
 
 Try running some of the following tasks:
